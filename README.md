@@ -112,4 +112,3 @@ There are several ways to utilize these modes:
 
 ---
 
-Hopefully, this English version of the README is helpful for explaining your specific `.roomodes` configuration!
